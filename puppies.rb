@@ -25,8 +25,6 @@ def some_puppies(num_puppies, max)
   else
     "Get back to your animal goals."
   end
-
-
 end
 
 
