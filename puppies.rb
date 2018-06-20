@@ -23,7 +23,7 @@ def some_puppies(num_puppies, max)
   if num_puppies < (max/2)
     return "Good job, Rachel."
   else
-    "Get back to your animal goals."
+    "Get back to your animal goals!"
   end
 end
 
