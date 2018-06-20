@@ -33,5 +33,5 @@ end
 def new_animal(num_puppies, num_cats)
   if num_puppies == 0 || num_cats == 0
     return "Good job!"
-  else num_puppies >= 1 && num_cats 
+  else num_puppies >= 1 && num_cats >= 1
 end
